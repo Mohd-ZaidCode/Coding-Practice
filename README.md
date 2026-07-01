@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
