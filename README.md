@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
