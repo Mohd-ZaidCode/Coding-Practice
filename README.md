@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
