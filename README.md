@@ -45,6 +45,7 @@
 ## Database
 |  |
 | ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Design
 |  |
