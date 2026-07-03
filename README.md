@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
