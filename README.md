@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
