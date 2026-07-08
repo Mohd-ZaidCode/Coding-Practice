@@ -32,6 +32,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
@@ -78,6 +80,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
