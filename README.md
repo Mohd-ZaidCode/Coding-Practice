@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0041-first-missing-positive) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
@@ -76,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
