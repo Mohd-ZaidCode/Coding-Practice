@@ -13,14 +13,17 @@ class Solution {
                     temp.add(nums[j]);
                     temp.add(nums[k]);
                     Collections.sort(temp);
-                    set.add(temp);
+                    if(!set.contains(temp)){
+                        set.add(temp);
+                        ls.add(temp);
+                    }
                     k--;
                 }
                 else if(nums[i]+nums[j]+nums[k]>0)k--;
                 else j++;
             }
         }
-        for(List<Integer> a:set)ls.add(a);
+        
         return ls;
     }
 }
