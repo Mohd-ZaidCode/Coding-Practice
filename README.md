@@ -50,6 +50,7 @@
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
