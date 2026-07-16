@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
