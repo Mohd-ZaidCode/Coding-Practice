@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
