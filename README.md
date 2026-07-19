@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
