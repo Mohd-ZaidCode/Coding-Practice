@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
