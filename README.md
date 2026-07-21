@@ -58,6 +58,7 @@
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
 |  |
 | ------- |
