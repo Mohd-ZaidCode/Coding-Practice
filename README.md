@@ -61,6 +61,7 @@
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -74,6 +75,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0203-remove-linked-list-elements) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
