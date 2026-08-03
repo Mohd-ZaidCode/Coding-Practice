@@ -60,6 +60,7 @@
 | [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
