@@ -23,6 +23,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Simulation
 | Problem Name | Difficulty |
