@@ -17,6 +17,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -52,6 +53,7 @@
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
