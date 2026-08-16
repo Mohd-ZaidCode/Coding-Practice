@@ -44,6 +44,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -62,6 +63,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
