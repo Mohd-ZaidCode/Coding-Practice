@@ -24,6 +24,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -182,12 +183,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -224,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 <!---LeetCode Topics End-->
