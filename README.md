@@ -66,6 +66,7 @@
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
@@ -184,6 +185,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -210,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
