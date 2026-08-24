@@ -24,6 +24,7 @@
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -68,6 +69,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
