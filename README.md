@@ -36,6 +36,7 @@
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4024-nearest-available-drone](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4024-nearest-available-drone/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [4024-nearest-available-drone](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4024-nearest-available-drone/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
