@@ -32,6 +32,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
@@ -123,6 +124,7 @@
 | [0027-remove-element](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
