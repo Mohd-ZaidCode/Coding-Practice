@@ -27,6 +27,7 @@
 | [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -74,6 +75,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -99,6 +101,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -234,6 +237,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 | Problem Name | Difficulty |
