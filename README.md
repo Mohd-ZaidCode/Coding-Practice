@@ -32,6 +32,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -155,6 +156,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -243,6 +245,7 @@
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
