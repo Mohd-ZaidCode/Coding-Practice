@@ -31,6 +31,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -248,6 +249,7 @@
 | [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Prefix Sum
