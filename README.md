@@ -102,6 +102,7 @@
 | [0070-climbing-stairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
@@ -191,6 +192,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
