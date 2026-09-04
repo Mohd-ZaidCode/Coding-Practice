@@ -19,6 +19,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -108,6 +109,7 @@
 | [0263-ugly-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -196,6 +198,7 @@
 | [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -288,9 +291,18 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
