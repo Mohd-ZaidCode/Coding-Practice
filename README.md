@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -203,6 +204,7 @@
 | [0062-unique-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
 ## Stack
@@ -319,4 +321,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
