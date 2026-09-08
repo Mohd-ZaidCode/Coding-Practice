@@ -324,6 +324,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -333,4 +334,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
