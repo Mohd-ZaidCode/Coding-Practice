@@ -42,6 +42,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
@@ -118,6 +119,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -183,6 +185,7 @@
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -317,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
