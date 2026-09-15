@@ -38,6 +38,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -188,6 +189,7 @@
 | [0412-fizz-buzz](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
