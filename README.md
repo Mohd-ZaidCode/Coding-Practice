@@ -118,6 +118,7 @@
 | [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -188,6 +189,7 @@
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
