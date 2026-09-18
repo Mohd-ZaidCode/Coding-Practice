@@ -25,6 +25,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -174,6 +175,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -327,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
