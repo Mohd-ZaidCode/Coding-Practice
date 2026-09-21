@@ -90,6 +90,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
@@ -179,6 +180,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -372,4 +374,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
