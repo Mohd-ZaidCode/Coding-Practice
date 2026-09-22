@@ -43,6 +43,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -69,6 +70,7 @@
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -126,6 +128,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -286,6 +289,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
