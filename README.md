@@ -36,6 +36,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -67,6 +68,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -361,6 +363,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +373,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
