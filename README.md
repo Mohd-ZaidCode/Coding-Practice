@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -65,6 +66,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +149,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -170,6 +173,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 ## Randomized
 | Problem Name | Difficulty |
@@ -386,4 +390,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
