@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
@@ -162,6 +163,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -217,6 +219,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
