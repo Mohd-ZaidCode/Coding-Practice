@@ -28,6 +28,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
@@ -194,6 +195,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -272,6 +274,7 @@
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1720-decode-xored-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1720-decode-xored-array/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -286,6 +289,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
