@@ -58,6 +58,7 @@
 | [3895-count-digit-appearances](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3895-count-digit-appearances/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4024-nearest-available-drone](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4024-nearest-available-drone/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +363,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,4 +413,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0706-design-hashmap/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
