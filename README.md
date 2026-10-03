@@ -376,6 +376,7 @@
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,16 +389,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
