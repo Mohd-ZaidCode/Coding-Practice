@@ -237,6 +237,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
@@ -430,4 +431,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
