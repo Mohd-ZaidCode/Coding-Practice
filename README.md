@@ -104,6 +104,7 @@
 | [0412-fizz-buzz](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -260,6 +261,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -435,4 +437,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0278-first-bad-version/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
