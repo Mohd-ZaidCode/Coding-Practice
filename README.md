@@ -33,6 +33,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1472-design-browser-history) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1720-decode-xored-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1720-decode-xored-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
@@ -107,6 +108,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1528-shuffle-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
