@@ -49,6 +49,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -345,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4024-nearest-available-drone/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
