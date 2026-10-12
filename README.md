@@ -406,6 +406,7 @@
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +414,7 @@
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +422,7 @@
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
