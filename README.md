@@ -405,6 +405,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -413,6 +414,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -421,6 +423,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -457,4 +460,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
