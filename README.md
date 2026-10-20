@@ -102,6 +102,7 @@
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0412-fizz-buzz/) | Easy |
@@ -288,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0039-combination-sum) |
+| [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -405,6 +407,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -414,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -423,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1302-deepest-leaves-sum/) | Medium |
