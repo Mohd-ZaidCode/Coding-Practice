@@ -143,6 +143,7 @@
 | [0263-ugly-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0400-nth-digit](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0400-nth-digit/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1025-divisor-game/) | Easy |
@@ -246,6 +247,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0400-nth-digit](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0400-nth-digit/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
