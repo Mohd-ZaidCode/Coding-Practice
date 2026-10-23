@@ -58,6 +58,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3895-count-digit-appearances/) | Medium |
@@ -89,6 +90,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
@@ -315,6 +317,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
