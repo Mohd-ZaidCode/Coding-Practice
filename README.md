@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -73,6 +74,7 @@
 | [0041-first-missing-positive](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0409-longest-palindrome/) | Easy |
@@ -143,6 +145,7 @@
 | [0233-number-of-digit-one](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0400-nth-digit](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0400-nth-digit/) | Medium |
@@ -212,6 +215,7 @@
 | [0015-3sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -247,6 +251,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0400-nth-digit](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0400-nth-digit/) | Medium |
@@ -300,6 +305,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1720-decode-xored-array](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1720-decode-xored-array/) | Easy |
