@@ -61,6 +61,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3895-count-digit-appearances/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -169,6 +170,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3895-count-digit-appearances/) | Medium |
