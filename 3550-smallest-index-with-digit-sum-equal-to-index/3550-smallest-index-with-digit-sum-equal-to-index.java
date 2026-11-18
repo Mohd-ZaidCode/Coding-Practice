@@ -6,12 +6,11 @@ class Solution {
         return -1;
     }
     public int sumdig(int n){
-            int temp=n,sum=0;
-            while(temp>0){
-                sum+=temp%10;
-                temp/=10;
-            }n=sum;
-        
+            int sum=0;
+            while(n>0){
+                sum+=n%10;
+                n/=10;
+            } 
         return sum;
     }
 }
