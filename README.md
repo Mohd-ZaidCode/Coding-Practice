@@ -59,6 +59,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -170,6 +171,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
