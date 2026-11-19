@@ -438,6 +438,7 @@
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0257-binary-tree-paths/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -490,4 +491,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
