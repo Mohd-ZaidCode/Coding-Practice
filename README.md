@@ -43,6 +43,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -125,6 +126,7 @@
 | [1859-sorting-the-sentence](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2325-decode-the-message](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2325-decode-the-message/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -495,4 +497,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mohd-ZaidCode/Coding-Practice/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
